@@ -1,6 +1,64 @@
 #mb1,
 #mb2,
 #mb3,
-#mb4 {
+#mb4,
+#mb5 {
   float: left;
 }
+
+.botton_menu {
+	background-color: #e1e1e1;
+	height: 39px;
+	width: 964px;
+	margin-left: 47px;
+	font-size: 14.67px;
+	font-family: Arial sans-serif; 
+	color: #656363;
+	 
+}
+
+#mb1,
+#mb2,
+#mb3,
+#mb4 {
+	margin: 0px;
+	height: 39px;
+	width: 145px;
+}
+#mb5 {
+	margin: 0px;
+	height: 39px;
+	width: 384px;
+}
+
+.text_mb1 {
+	margin-left: 25px;
+	margin-top: 12px;
+}
+.text_mb2 {
+	margin-left: 30px;
+	margin-top: 12px;
+}
+.text_mb3 {
+	margin-left: 50px;
+	margin-top: 12px;
+}
+.text_mb4 {
+	margin-left: 40px;
+	margin-top: 12px;
+}
+.text_mb5 {
+	margin-top: 12px;
+	margin-left: 200px;
+}
+
+#mb1:hover,
+#mb2:hover,
+#mb3:hover,
+#mb4:hover {
+	text-decoration: underline;
+}
+
+
+
+
