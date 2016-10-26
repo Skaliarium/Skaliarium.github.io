@@ -1,0 +1,42 @@
+#leftm {
+	margin: 0px;
+	height: 242px;
+	width: 240px;
+	margin-left: 47px;
+	margin-top: 42px;
+	border: 1px solid #c8c8c8;
+}
+#leftm,
+#imgv {
+	float: left;
+}
+#imgv {
+	position: relative;
+	margin-top: 42px;
+	margin-left: 47px;
+	height: 400px;
+	width: 673px;
+	border: 1px solid #c8c8c8;
+}
+#velo {
+	margin-top: 40px;
+	margin-left: 85px;
+}
+.lm_text {
+	display: block;
+	height: 40px;
+
+}
+#plm_text {
+	font-family: Arial sans-serif;
+	color: #656363;
+	font-size: 13.33px;
+	padding-left: 24px;
+	padding-top: 12px;
+}
+
+.lm_text:hover {
+	background-color: #f9f9f9
+	
+}
+
