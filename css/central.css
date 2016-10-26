@@ -33,7 +33,7 @@
 	border-bottom: 1px solid #c8c8c8;
 
 }
-#plm_text {
+.plm_text {
 	font-family: Arial sans-serif;
 	color: #656363;
 	font-size: 13.33px;
@@ -45,7 +45,7 @@
 	background-color: #f9f9f9
 
 }
-#plm_text:hover {
+.plm_text:hover {
 	padding-left: 50px;
 	font-family: Arial sans-serif;
 	color: black;
