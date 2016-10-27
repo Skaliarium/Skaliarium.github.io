@@ -1,19 +1,23 @@
 html, body {
 	height: 100%;
 }
-body{
-	background: lightgray; 
+
+body {
+	background: #f9f9f9; 
 }
+
 .wrapper {
 	width: 1060px;
-/*	height: 950px;*/
 	background-color: white;
 	margin: 0 auto;
+	box-shadow: 0 0 5px rgba(0,0,0,0.3);
 }
+
 .logo {
 	padding-left: 47px;
 	padding-top: 50px;
 }
+
 .header {
 	background-color: #515151;
 	height: 39px;
@@ -21,17 +25,9 @@ body{
 	margin-left: 47px;
 	margin-top: 40px;
 }
-/*.menu {
-	font-family: Arial sans-serif;
-	font-size: 15px;
-	color: white;
-	height: 39px;
-	width: 964px;
-}*/
 
  .menu {
  	float: left;
-	/*display: block;*/
 	margin: 0px;
 	height: 39px;
 	width: 145px;
@@ -39,52 +35,42 @@ body{
 
 .text1,
 .text2,
-.tetx3,
-.tetx4 {
+.text3,
+.text4 {
 	font-family: Arial sans-serif;
 	text-decoration: none;
 	font-size: 15px;
 	color: white;
 	display: block;
+	line-height: 39px;
+
 }
 
 .text1 {
-	margin-left: 25px;
-	margin-top: 12px;
+	padding-left: 25px;
 }
 .text2 {
-	margin-left: 30px;
-	margin-top: 12px;
+	padding-left: 30px;
 }
 .text3 {
-	margin-left: 50px;
-	margin-top: 12px;
+	padding-left: 50px;
 }
 .text4 {
-	margin-left: 40px;
-	margin-top: 12px;
+	padding-left: 40px;
 }
 
-#menut1:hover {
+.text1:hover {
 	background-color: #434343;
 	border-right: 1px solid #838383;
+	box-sizing: border-box;
 }
-#menut2:hover {
-	background-color: #434343;
-	border-right: 1px solid #838383;
-	border-left: 1px solid #838383;
-}
-#menut3:hover {
-	background-color: #434343;
-	border-right: 1px solid #838383;
-	border-left: 1px solid #838383;
-}
-#menut4:hover {
+
+.text2:hover,
+.text3:hover,
+.text4:hover {
 	background-color: #434343;
 	border-right: 1px solid #838383;
 	border-left: 1px solid #838383;
+	box-sizing: border-box;
 }
-
-
-
 
