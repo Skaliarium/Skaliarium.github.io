@@ -11,6 +11,8 @@
 	height: 39px;
 	width: 964px;
 	margin-left: 47px;
+	/*margin-bottom: 100px;*/
+	border-bottom: 20px solid white;
 	font-size: 14.67px;
 	font-family: Arial sans-serif; 
 	color: #656363;
