@@ -1,0 +1,498 @@
+
+
+/*slid 1 with bic Title*/
+.road {
+  background-image: url(../img/road.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.natushell {
+  position: relative;
+  margin-top: 73vh;
+  padding-left: 4vw;
+
+}
+
+.natushell p {
+  color: #ffcc00;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4vw;
+  padding-left: 0.8vw;
+  font-weight: 500;
+}
+
+.natushell h1 {
+  font-size: 13vw;
+  margin-top: 0;
+  line-height: 0.5;
+  letter-spacing: 11.5px;
+  margin-left: 0;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  padding-top: 12px;
+}
+
+/*Slide 2 with main link Ridester*/
+
+.citycar {
+  background-image: url(../img/citycar.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.redistercom {
+  position: relative;
+  margin-top: 35vh;
+
+}
+
+.redistercomborder {
+  border-left: 5px white solid;
+}
+
+.redistercomborder > a {
+  color: #ffcc00;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+}
+
+.redistercomborder > p {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+}
+
+.redistercomborder > a:hover {
+    color: #ffcc00;
+    text-decoration: underline;
+}
+
+/*Slide 3 with redcarroad and opasity*/
+
+.redcarroad {
+  background-image: url(../img/redcarroad.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.redcarroadshadow {
+  background-color: RGBA(0, 0, 0, 0.8);
+  height: 100vh;
+
+}
+
+.redcarroadshadow > .shadowtext {
+  margin-right: 12vh;
+  margin-left: 12vh;
+  padding-top: 12vw;
+}
+
+.shadowtext p {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.shadowtext p.textyellow {
+  color: #ffcc00;
+}
+
+
+/*Slide 4 who we are?*/
+
+.gpscar {
+  background-image: url(../img/gpscar.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.shadowgpscar {
+  background-color: RGBA(0, 0, 0, 0.8);
+  height: 100vh;
+  width: 100%;
+}
+
+.shadowgpscar h2 {
+  color: #ffcc00;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5em;
+  text-align: left;
+  font-weight: 800;
+  padding-left: 12vh;
+}
+
+.shadowgpscar p {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: left;
+
+}
+
+ .whoweare {
+  margin-right: 5vh;
+  margin-left: 5vh;
+  padding-top: 12vw;
+}
+
+ .shadowgpscar .weareridester {
+  margin-right: 11vh;
+  margin-left: 12vh;
+}
+
+/*Slide 5  our history*/
+
+.parking {
+  background-image: url(../img/parking.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+.covergrey {
+  background-color: #333333;
+  height: 100vh;
+}
+
+.covergrey h2 {
+  color: #ffcc00;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5em;
+  text-align: left;
+  font-weight: 800;
+  padding-left: 12vh;
+}
+
+.covergrey p {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: left;
+
+}
+
+.covergrey .ourhistory {
+  margin-right: 0;
+  margin-left: 0;
+  padding-top: 7vw;
+}
+
+.covergrey .ourridester {
+  margin-right: 11vh;
+  margin-left: 12vh;
+}
+
+/*Slide 6  our mission*/
+
+.simpleroad {
+  background-image: url(../img/simpleroad.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.simpleroad h2 {
+  color: #ffcc00;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5em;
+  text-align: left;
+  font-weight: 800;
+  padding-left: 12vh;
+}
+
+.simpleroad p {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: left;
+
+}
+
+.simpleroad .weareridester {
+ margin-right: 11vh;
+ margin-left: 12vh;
+}
+
+/*Slide 7 AUDIENCE*/
+
+.manincar {
+    background-image: url(../img/manincar.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+}
+
+.row > .grafaudience {
+    margin-left: 0px;
+
+}
+
+.row > .textaudience {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 2vh;
+}
+
+.textaudience h2 {
+  color: #ffcc00;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5em;
+  text-align: center;
+  font-weight: 800;
+
+}
+
+.textaudience p {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: center;
+
+}
+
+/*Slide 8 Demographic*/
+
+.selfy {
+  background-image: url(../img/selfy.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+.row > .demographic {
+  margin-left: 3vw;
+  margin-right: 2vw;
+  margin-top: 2vh;
+
+}
+
+.row > .textdemographic {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 3vh;
+}
+
+.textdemographic h2 {
+  color: #ffcc00;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5em;
+  text-align: center;
+  font-weight: 800;
+
+}
+
+.textdemographic p {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: center;
+
+}
+
+/*Slide 9 Mentions in the press*/
+
+.photos {
+  background-image: url(../img/photos.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+}
+
+
+.textmentions h2 {
+  font-size: 3em;
+  margin-top: 10vh;
+  text-align: center;
+  padding-left: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.textmentions p {
+  text-align: center;
+}
+
+.row >.links {
+  margin-top: 3vh;
+}
+
+a.linkyellow {
+  color: yellow;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8em;
+}
+
+a.linkyellow:hover {
+  color: yellow;
+
+}
+
+a.linkwhite {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8em;
+}
+
+a.linkwhite:hover {
+  color: white;
+}
+
+/*Slide 10  GET IN TOUCH*/
+
+.getinpicture {
+  background-image: url(../img/getintouch.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 100vh;
+
+}
+
+.getin {
+  margin-top: 40vh;
+  margin-left: 3vw;
+}
+
+.getin h2 {
+  font-size: 4.5em;
+  text-align: left;
+  margin-left: 8vw;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.textgetin p {
+  font-size: 1.2em;
+  text-align: left;
+  font-weight: 200;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: left;
+  margin-left: 9vw;
+  margin-right: 1vw;
+
+}
+
+
+@media (max-width: 480px) {
+/*Slide 3 with redcarroad and opasity*/
+  .shadowtext p {
+    font-size: 1em;
+  }
+  .redcarroadshadow > .shadowtext {
+    margin-right: 1vh;
+    margin-left: 1vh;
+    padding-top: 20vw;
+}
+/*Slide 4 who we are?*/
+  .shadowgpscar h2 {
+    font-size: 2em;
+    padding-left: 1vh;
+  }
+  .shadowgpscar p {
+    font-size: 0.8em;
+  }
+   .shadowgpscar .weareridester {
+    margin-right: 0vh;
+    margin-left: 1vh;
+  }
+/*Slide 5  our history*/
+.covergrey h2 {
+  padding-left: 1vh;
+  font-size: 2em;
+}
+.covergrey p {
+  font-size: 0.8em;
+}
+.covergrey .ourridester {
+  margin-right: 0vh;
+  margin-left: 1vh;
+}
+
+/*Slide 6  our mission*/
+
+.simpleroad h2 {
+  font-size: 2em;
+  padding-left: 1vh;
+}
+.simpleroad p {
+  font-size: 0.8em;
+}
+
+.simpleroad .weareridester {
+ margin-right: 0vh;
+ margin-left: 1vh;
+}
+
+/*Slide 7 AUDIENCE*/
+
+.textaudience h2 {
+  font-size: 2em;
+}
+
+
+}
+
+@media (max-width: 640px) {
+/*Slide 8 Demographic*/
+.textdemographic h2 {
+  font-size: 2em;
+}
+
+}
+
+@media (max-width: 780px) {
+  .smrespons {
+    text-align: center;
+  }
+
+  .smrespons > a {
+    font-size: 0.8em;
+  }
+
+.textmentions p {
+  margin-left: 6vw;
+  margin-right: 6vw;
+}
+.textmentions h2 {
+    font-size: 1em;
+    margin-top: 2vw;
+}
+
+.row >.links {
+  margin-top: 1vh;
+}
+
+.getin h2 {
+  font-size: 2em;
+}
+
+.textgetin p {
+  font-size: 1em;
+}
+
+}
