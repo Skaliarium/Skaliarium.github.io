@@ -401,7 +401,7 @@ a.linkwhite:hover {
 
 }
 
-@media all and (max-width: 320px) {
+@media all and (min-width: 250px) and (max-width: 375px) {
   .whoweare {
     margin-right: 4vh;
     margin-left: 9vh;
@@ -466,7 +466,7 @@ a.linkwhite:hover {
 
 }
 
-@media all and (max-width: 480px) {
+@media all and (min-width: 375px) and (max-width: 480px) {
 /*Slide 3 with redcarroad and opasity*/
   .shadowtext p {
     font-size: 1em;
