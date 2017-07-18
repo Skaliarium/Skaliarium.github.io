@@ -483,6 +483,8 @@ a.linkwhite:hover {
   }
   .shadowgpscar p {
     font-size: 0.8em;
+    margin-left: 10vw;
+    margin-right: 2vw;
   }
    .shadowgpscar .weareridester {
     margin-right: 0vh;
@@ -550,6 +552,7 @@ a.linkwhite {
 
 .textgetin p {
   font-size: 1em;
+  margin-right: 7vw;
 }
 
 }
