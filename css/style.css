@@ -522,6 +522,35 @@ a.linkwhite:hover {
   font-size: 2em;
 }
 
+a.linkyellow {
+  font-size: 0.8em;
+  margin-left: 48vw;
+}
+
+a.linkwhite {
+  font-size: 0.8em;
+  margin-left: 48vw;
+}
+
+.row >.links {
+  margin-top: 0vh;
+}
+
+.textmentions h2 {
+  margin-top: 1vh;
+}
+
+.getin h2 {
+  font-size: 2.5em;
+}
+
+.getin {
+  margin-top: 27vh;
+}
+
+.textgetin p {
+  font-size: 1em;
+}
 
 }
 
