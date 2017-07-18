@@ -110,7 +110,7 @@
 }
 
 .redcarroad > .puddingright {
-  padding-right: 0px !important;
+  padding-right: 0px;
 }
 
 
@@ -401,6 +401,66 @@ a.linkwhite:hover {
 
 }
 
+@media (max-width: 320px) {
+  .whoweare {
+    margin-right: 4vh;
+    margin-left: 9vh;
+    padding-top: 20vw;
+  }
+
+  .covergrey .ourhistory {
+    margin-right: 8px;
+    margin-left: 1px;
+    padding-top: 1vw;
+  }
+
+  .covergrey p {
+    font-size: 0.7em;
+  }
+
+  .shadowgpscar p {
+    font-size: 0.8em;
+    margin: 0px 7px 0px 39px;
+  }
+
+  .shadowgpscar h2 {
+    font-size: 1.5em;
+    padding-left: 4vh;
+  }
+
+  a.linkyellow {
+    font-size: 0.8em;
+    margin-left: 48vw;
+  }
+
+  a.linkwhite {
+    font-size: 0.8em;
+    margin-left: 48vw;
+  }
+
+  .row >.links {
+    margin-top: 0vh;
+  }
+
+  .textmentions h2 {
+    margin-top: 1vh;
+  }
+
+  .getin h2 {
+    font-size: 2.5em;
+  }
+
+  .getin {
+    margin-top: 27vh;
+  }
+
+  .textgetin p {
+    font-size: 1em;
+  }
+
+
+
+}
 
 @media (max-width: 480px) {
 /*Slide 3 with redcarroad and opasity*/
