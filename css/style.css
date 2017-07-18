@@ -109,6 +109,10 @@
   color: #ffcc00;
 }
 
+.redcarroad > .puddingright {
+  padding-right: 0px !important;
+}
+
 
 /*Slide 4 who we are?*/
 
@@ -463,10 +467,10 @@ a.linkwhite:hover {
   font-size: 2em;
 }
 /*Slide 2 */
-  .redistercom .redistercomborder {
+  /*.redistercom .redistercomborder {
     left: 6% !important;
     padding-right: 9% !important;
-  }
+  }*/
 }
 
 }
