@@ -458,6 +458,10 @@ a.linkwhite:hover {
     font-size: 1em;
   }
 
+  .shadowgpscar h2 {
+      font-size: 2em;
+      padding-left: 7vh;
+    }
 
 
 }
@@ -565,9 +569,5 @@ a.linkwhite:hover {
   font-size: 1em;
 }
 
-.shadowgpscar h2 {
-    font-size: 2em;
-    padding-left: 7vh;
-  }
 
 }
