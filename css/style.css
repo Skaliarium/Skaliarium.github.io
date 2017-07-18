@@ -401,7 +401,7 @@ a.linkwhite:hover {
 
 }
 
-@media (max-width: 320px) {
+@media all and (max-width: 320px) {
   .whoweare {
     margin-right: 4vh;
     margin-left: 9vh;
