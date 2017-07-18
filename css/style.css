@@ -462,7 +462,7 @@ a.linkwhite:hover {
 
 }
 
-@media (max-width: 480px) {
+@media all and (max-width: 480px) {
 /*Slide 3 with redcarroad and opasity*/
   .shadowtext p {
     font-size: 1em;
@@ -521,7 +521,7 @@ a.linkwhite:hover {
 
 }
 
-@media (max-width: 640px) {
+@media all and (max-width: 640px) {
 /*Slide 8 Demographic*/
 .textdemographic h2 {
   font-size: 2em;
@@ -535,7 +535,7 @@ a.linkwhite:hover {
 
 }
 
-@media (max-width: 780px) {
+@media all and (max-width: 780px) {
   .smrespons {
     text-align: center;
   }
@@ -564,5 +564,10 @@ a.linkwhite:hover {
 .textgetin p {
   font-size: 1em;
 }
+
+.shadowgpscar h2 {
+    font-size: 2em;
+    padding-left: 7vh;
+  }
 
 }
