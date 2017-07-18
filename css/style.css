@@ -462,6 +462,12 @@ a.linkwhite:hover {
 .textdemographic h2 {
   font-size: 2em;
 }
+/*Slide 2 */
+  .redistercomborder {
+    left: 6%;
+    padding-right: 9%;
+  }
+}
 
 }
 
