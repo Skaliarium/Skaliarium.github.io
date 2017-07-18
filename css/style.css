@@ -464,8 +464,8 @@ a.linkwhite:hover {
 }
 /*Slide 2 */
   .redistercom .redistercomborder {
-    left: 6%;
-    padding-right: 9%;
+    left: 6% !important;
+    padding-right: 9% !important;
   }
 }
 
