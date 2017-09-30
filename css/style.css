@@ -451,6 +451,79 @@ ul > li > a {
 
 /*Slide3*/
 
+.slide3 {
+  background-image: url(../img/page3_BG.jpg);
+  background-position: center center;
+  background-size: 100vw 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  min-height: 100%;
+}
+.plusminus {
+  width: 10%;
+  margin-left: 4%;
+}
+.RID_bluTYPE_com {
+ width: 55%;
+ margin-left: 10%;
+}
+.slide3 .continued {
+ position: relative;
+ margin-top: -10%;
+ font-family: 'GeorgiaBoldItalic', sans-serif;
+ font-size: 8.2vw;
+ color: #19212c;
+ padding-left: 12%;
+}
+.arrowbluupslide3 {
+ margin-top: 22%;
+}
+.emptyspace {
+  width: 100%;
+  height: 20px;
+}
+
+.slide3 h2 {
+  font-size: 24px;
+  color: #9e9b9b;
+  font-family: 'GeorgiaBoldItalic', sans-serif;
+}
+.slide3 p {
+  font-size: 14px;
+  color: #19212c;
+  font-family: 'GothamRounded-light', sans-serif;
+  margin: 0px 0px;
+}
+.whiteicon2 {
+  width: 70%;
+  padding-left: 8%;
+  padding-top: 10%;
+  padding-bottom: 3%;
+}
+
+@media all and (min-width: 180px) and (max-width: 991px) {
+  .slide3 h2 {
+  padding-left: 10%;
+  }
+  .slide3 p {
+    padding-left: 10%;
+    padding-right: 30%;
+  }
+  .arrowbluupslide3 {
+    margin-top: 2%;
+    width: 60%;
+    float: right;
+  }
+.whiteicon2 {
+    width: 60%;
+  }
+  .plusminus {
+    width: 14%;
+    margin-left: 8%;
+}
+}
+
 
 /*Slide4*/
 
@@ -953,4 +1026,71 @@ p.firsttext {
 .mobilespace {
   margin-bottom: 10px;
 }
+}
+
+/*slide7*/
+
+.slide7 {
+  background-image: url(../img/bgslide7.jpg);
+  background-position: center center;
+  background-size: 100vw 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  min-height: 100%;
+}
+.central_BLUwhiteMARK {
+  margin-left: 39%;
+  width: 22%;
+}
+.central_bluTYPE {
+  margin-left: 32%;
+  width: 38%;
+}
+.emptyspace1 {
+  width: 100%;
+  height: 30vw;
+}
+.emptyspace2 {
+  width: 100%;
+  height: 5vw;
+}
+.emptyspace3 {
+  width: 100%;
+  height: 20vw;
+}
+.bgfooter {
+  background-color: #1c2b39;
+  background-position: center center;
+  background-size: 100vw 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100vw;
+  min-height: 100%;
+}
+
+.bgfooter .RIDESHARE {
+  color: #fff;
+  font-family: 'GothamRounded-light', sans-serif;
+  font-size: 44px;
+  margin-top: 5%;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.bgfooter .ROADMAP {
+  color: #fff;
+  font-family: 'GothamRounded-Medium', sans-serif;
+  font-size: 44px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 5%;
+}
+
+@media all and (min-width: 180px) and (max-width: 480px) {
+  .bgfooter .RIDESHARE {
+    font-size: 24px;
+  }
+  .bgfooter .ROADMAP {
+    font-size: 24px;
+  }
 }
